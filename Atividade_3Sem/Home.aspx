@@ -32,16 +32,7 @@
           <div class="collapse navbar-collapse position-relative" id="navbarsExample05">
             <ul class="navbar-nav mx-auto pl-lg-5 pl-0 d-flex align-items-center">
               
-              <%--<li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="services.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="services.html">Pre-Construction</a>
-                  <a class="dropdown-item" href="services.html">General Construction</a>
-                  <a class="dropdown-item" href="services.html">House Renovation</a>
-                  <a class="dropdown-item" href="services.html">Plumbing</a>
-                </div>
-
-              </li>--%>
+            
               
                   <span class="d-inline-block px-4 py-2 border">Quotation</span>
                 </a>
